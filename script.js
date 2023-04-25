@@ -27,34 +27,34 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Song 1",
+     name: "Runaway",
      path: "music/song1.mp3",
      img: "img/img1.jpg",
-     singer: "....."
+     singer: "Aurora"
    },
    {
-     name: "Song 2",
+     name: "Besabriyaan",
      path: "music/song2.mp3",
      img: "img/img2.jpg",
-     singer: "Alan Walker"
+     singer: "Armaan Malik"
    },
    {
-     name: "Song 3",
+     name: "Jarico Island",
      path: "music/song3.mp3",
      img: "img/img3.jpg",
-     singer: "Kamal Khan"
+     singer: "........."
    },
    {
-     name: "Song 4",
+     name: "Memories",
      path: "music/song4.mp3",
      img: "img/img4.jpg",
      singer: "Maroon 5"
    },
    {
-     name: "Song 5",
+     name: "Faded",
      path: "music/song5.mp3",
      img: "img/img5.jpg",
-     singer: "Ankit Tiwari"
+     singer: "Alan Walker"
    }
 ];
 
